@@ -1,0 +1,11 @@
+d623e0b7c8aa7441d315ddd141477d8a *DESCRIPTION
+1c06ab8e21a7558d0462e0cee644038d *LICENSE
+8efdaa9be6f9547b4f8197cd4e00cad8 *NAMESPACE
+dc46f3b2cd0833f147f409a086ca3478 *R/checkkey.R
+daebf9102f6e874da0d8cb617957d5cb *R/diffdfs.R
+2f3aa4e13de0cde444cc013e1652746e *README.md
+dc0239bfcc59a846a26174e1abf734c5 *man/checkkey.Rd
+afeaebe06b28a75ab303a9ab719aaa75 *man/diffdfs.Rd
+e8586f01f8e400f275964b28d8c61762 *tests/testthat.R
+976a3ccc92ffab1f523ecc5ed9192acd *tests/testthat/test-checkkey.R
+e69007d7b54f1b6087ebfca6f82c206d *tests/testthat/test-diffdfs.R
